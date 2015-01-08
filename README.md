@@ -1,2 +1,1 @@
-# Hello-world
-Just saying Hello :)
+puts("Hello world")
